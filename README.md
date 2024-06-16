@@ -14,5 +14,5 @@ This project aims to tackle the popular sliding block puzzle game "2048" using a
 - **Visualization**: Visualize the agent's decision-making process in real-time as it plays the game.
 
 ## Installation
-To get started with this project, clone the repository and install the required dependencies:
+To get started with this project, clone the repository and install the required dependencies
 

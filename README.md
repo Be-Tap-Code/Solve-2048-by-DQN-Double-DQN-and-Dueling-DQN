@@ -16,7 +16,3 @@ This project aims to tackle the popular sliding block puzzle game "2048" using a
 ## Installation
 To get started with this project, clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/yourusername/Solve-2048-by-DQN-Double-DQN-and-Dueling-DQN.git
-cd Solve-2048-by-DQN-Double-DQN-and-Dueling-DQN
-pip install -r requirements.txt
